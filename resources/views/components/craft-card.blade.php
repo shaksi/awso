@@ -3,7 +3,7 @@
     <div class="items-center -mx-6 md:flex md:-mx-12">
       <div class="w-full px-10 mt-16 md:w-1/2 md:mt-0">
         <div class="overflow-hidden bg-white rounded-lg shadow-xl">
-          <img class="w-full" loading="lazy" src="https://images.unsplash.com/photo-1542103749-8ef59b94f47e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80" alt="Portrait of Irene Sims, VP of Sales">
+          <img class="w-full" loading="lazy" src="{{mix('/img/africanMother.jpg')}}" alt="Portrait of Irene Sims, VP of Sales">
           <div class="p-12">
             <blockquote class="text-lg italic text-gray-800">
               <div class="absolute -mt-2 -ml-2 pin-t pin-l">
