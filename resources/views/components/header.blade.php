@@ -5,7 +5,7 @@
          <a class="no-underline text-teal-dark border-b-2 border-teal-dark uppercase tracking-wide font-bold text-xs py-3 mr-8 pt-8 pt-8" href="#">
              Home
          </a>
-         <a class="no-underline text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8 pt-8" href="#">
+         <a class="no-underline text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8 pt-8" href="#background">
              About Us
          </a>
 
@@ -15,10 +15,10 @@
       <img class="h-20 w-20 self-center" src="{{ mix('/img/logo.png') }}" />
 
   </div>
-         <a class="no-underline text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8 pt-8" href="#">
-             Mission
+         <a class="no-underline text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 mr-8 pt-8" href="#approach">
+             Our Approach
          </a>
-         <a class="no-underline text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 pt-8" href="#">
+         <a class="no-underline text-grey-dark border-b-2 border-transparent uppercase tracking-wide font-bold text-xs py-3 pt-8" href="#contact">
              Contact Us
          </a>
      </div>

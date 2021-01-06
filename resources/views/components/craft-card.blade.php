@@ -28,7 +28,7 @@
           </div>
         </div>
       </div>
-      <div class="w-full px-6 md:w-1/2 md:px-12">
+      <div class="w-full px-6 md:w-1/2 md:px-12" id="approach">
         <h2 class="text-2xl font-bold text-gray-900">Our Approach</h2>
         <div class="flex mt-10">
           <div>

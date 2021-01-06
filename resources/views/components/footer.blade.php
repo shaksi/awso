@@ -53,7 +53,7 @@
                         <a class="text-gray-500 cursor-pointer hover:text-gray-900" href="#background">Background</a>
                     </li>
                     <li class="mt-3">
-                        <a class="text-gray-500 cursor-pointer hover:text-gray-900" href="#mission">Mission</a>
+                        <a class="text-gray-500 cursor-pointer hover:text-gray-900" href="#approach">Our Approach</a>
                     </li>
                     <li class="mt-3">
                         <a class="text-gray-500 cursor-pointer hover:text-gray-900" href="#contact">Contact</a>
