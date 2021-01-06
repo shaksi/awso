@@ -49,18 +49,19 @@
             <div class="w-full px-4 lg:w-1/4 md:w-1/2">
                 <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">About</h2>
                 <nav class="mb-10 list-none">
-                    <li class="mt-3">
-                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">Company</a>
+                <li class="mt-3">
+                        <a class="text-gray-500 cursor-pointer hover:text-gray-900" href="#background">Background</a>
                     </li>
                     <li class="mt-3">
-                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">Careers</a>
+                        <a class="text-gray-500 cursor-pointer hover:text-gray-900" href="#mission">Mission</a>
                     </li>
                     <li class="mt-3">
-                        <a class="text-gray-500 cursor-pointer hover:text-gray-900">Blog</a>
+                        <a class="text-gray-500 cursor-pointer hover:text-gray-900" href="#contact">Contact</a>
                     </li>
                 </nav>
             </div>
-            <div class="w-full px-4 lg:w-1/4 md:w-1/2">
+
+            <div class="w-full px-4 lg:w-1/4 md:w-1/2" id="contact">
                 <h2 class="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Contact</h2>
                 <nav class="mb-10 list-none">
                     <li class="mt-3">

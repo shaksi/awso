@@ -1,9 +1,9 @@
 <section class="relative px-0 py-20 xl:px-20 min-w-screen animation-fade animation-delay">
         <div class="container px-10 mx-auto sm:px-0">
             <div class="sm:flex">
-                <div class="flex-1 mr-12">
+                <div class="flex-1 mr-12" id="background">
                     <div class="text-sm text-gray-500 uppercase">Get to know us more</div>
-                    <div class="text-4xl">The Dream Team</div>
+                    <div class="text-4xl">Background</div>
                     <div class="mt-10">
                         <div class="flex">
                             <div class="flex-shrink">
@@ -22,8 +22,7 @@
                                 </svg>
                             </div>
                             <div class="flex-grow ml-5">
-                                <div class="text-2xl">Background</div>
-                                <p class="mt-5 leading-7 text-gray-700 text-md"> <p>Alamin Women Support Organization is a non-profit and non-governmental organization.
+                                <span class="mt-5 leading-7 text-gray-700 text-md">Alamin Women Support Organization is a non-profit and non-governmental organization.
                                 <BR />
                                 <BR />
 AWSO was formed to address the many concerns and growing number of cases pertaining to the rights of women. It has been founded in 10th October, 2019 by a focused group of a voluntary, experience and professional youth in Somalia. The main office of the organization locates in Mogadishu, the capital city of Somalia, having field offices in Middle Shabelle and Lower Shabelle in south central regions of Somalia.
